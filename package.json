@@ -1,0 +1,14 @@
+{
+  "name": "wanderway",
+  "version": "1.0.0",
+  "description": "Explore adventures categorized by difficulty, revealing locations, stops, and dates. Whether it's a leisurely stroll or an adrenaline-packed trek, find your perfect match effortlessly.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amanda Mitzian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
