@@ -19,3 +19,7 @@ Data format that looks like a JS object. All key-value pairs must be type String
 
 5 - Be stateless.
 Stateless RESTful API: All state is handled on the client. Each request mustt contain all the information necessary to process a certain request. The server should NOT have to remember previous requests.
+
+## Middleware
+
+A function that can modify the incoming request data. It stands in the middle of the request and the response.
